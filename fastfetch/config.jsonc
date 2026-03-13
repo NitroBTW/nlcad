@@ -1,0 +1,79 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+    "color": {
+      "1": "#ff9600",
+      "2": "#ff9600",
+      "3": "#ff9600",
+      "4": "#ff9600",
+      "5": "#ff9600",
+      "6": "#ff9600",
+      "7": "#ff9600",
+      "8": "#ff9600",
+      "9": "#ff9600"
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "color": {
+        "user": "#ff9600",
+        "at": "#cc6600",
+        "host": "#ff9600"
+      }
+    },
+    "separator",
+    {
+      "type": "os",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "wm",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "kernel",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "host",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "uptime",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "shell",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "packages",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "terminal",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "cpu",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "gpu",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "memory",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "swap",
+      "keyColor": "#ff9600"
+    },
+    {
+      "type": "disk",
+      "keyColor": "#ff9600"
+    }
+  ]
+}
